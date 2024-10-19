@@ -20,8 +20,12 @@ IOT devices in the building are operated using the Home Gateway and a smartphone
 Various IOT devices have been placed and configured in the topology. All of them are managed remotely using a smartphone (it is located next to the Home Gateway).
 
 IoT Monitor:
+
 login: admin
+
 password: admin
+
+
 The server address is the default gateway address - 192.168.25.1.
 
 1. Temperature sensor
