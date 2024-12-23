@@ -52,3 +52,15 @@ The server address is the default gateway address - 192.168.25.1.
 
 - There is a coffee maker in the room on floor 2. It turns on automatically when someone enters the room - it is activated by opening the door (to do this, click on the door with the ALT button). The coffee maker stays on, you can turn it off manually at any time (click, ALT button).
 
+## Images
+![](GitHub_images/01_EntireNetwork.png)
+
+![](GitHub_images/02_HomeGateway_Switches_Routers.png)
+
+![](GitHub_images/03_Floor1.png)
+
+![](GitHub_images/04_Floor2.png)
+
+![](GitHub_images/05_Floor3.png)
+
+![](GitHub_images/06_Floor4.png)
